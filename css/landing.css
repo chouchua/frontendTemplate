@@ -1,0 +1,25 @@
+body{
+	font-size:14px;font-weight:400;
+}
+
+/* color changes text color
+background contrasts text color
+*/
+
+#hero-area {text-align:center}
+#hero-area{padding-top:20vh;color:#fff;}
+#hero-area p{padding:50px 0}
+
+#about{background:#34495e;color:#fff}
+#about p{line-height:30px;color:#fff}
+
+#contact{background:#f1f1f1}
+
+.btn-success{background-color:#00B45E}
+
+.navbar-default{border:none;border-radius:0;background:rgba(0,0,0,.2)}
+.navbar{margin-bottom:0}
+.navbar li{color:#d1d1d1}
+
+
+.fa-stack{color:#00b45e;font-size:25px}
