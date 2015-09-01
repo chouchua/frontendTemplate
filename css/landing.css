@@ -6,7 +6,7 @@ body{
 background contrasts text color
 */
 
-#hero-area {text-align:center}
+#hero-area {text-align:center;background-color:#000080;}
 #hero-area{padding-top:20vh;color:#fff;}
 #hero-area p{padding:50px 0}
 
@@ -16,10 +16,11 @@ background contrasts text color
 #contact{background:#f1f1f1}
 
 .btn-success{background-color:#00B45E}
+.btn-common{background:#3d566e;color:#fff}
 
 .navbar-default{border:none;border-radius:0;background:rgba(0,0,0,.2)}
 .navbar{margin-bottom:0}
 .navbar li{color:#d1d1d1}
-
-
+.navbar-toggle:hover{background:#333}
+.navbar-brand:hover{color:#eee}
 .fa-stack{color:#00b45e;font-size:25px}
