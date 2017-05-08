@@ -1,4 +1,4 @@
-# frontendTemplate
+# Landing page(frontend template)
 Landing page template, using Bootstrap.
 
 
